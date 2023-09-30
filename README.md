@@ -33,3 +33,11 @@ Follow these steps to build and run the program:
 
    ```bash
    git clone <repository_url>
+
+
+2.  cd opengl-triangle
+
+3.  mkdir build
+    cd build
+4.  cmake ..
+5. ./OpenGLTriangle
